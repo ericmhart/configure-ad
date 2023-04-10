@@ -1,6 +1,6 @@
-# Configure Active Directory
+# Configure Azure VM and Active Directory
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/XQY3kca.png" alt="Azure logo"/>
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
