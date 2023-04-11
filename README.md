@@ -78,7 +78,47 @@ Make sure there is connectivity between the Server and Client. Enable ICMPv4 on 
 <img src="https://i.imgur.com/JZDXnvb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go to DC-1. Pull up Server Manager from the start menu. Click add roles and features. Click next button to server roles and check "Active Directory Domain Services". Next all the way through then click install. Click on the flag in uper right hand corner with Yellow caution triangle, click promote this Server to Domain Contoller. Check Add a new forest. Create a domain name mydomain.com. Create password. Next to install option. Then click install and computer will restart.
+Go to DC-1. Pull up Server Manager from the start menu. Click add roles and features. Click next button to server roles and check "Active Directory Domain Services". Next all the way through then click install. Click on the flag in uper right hand corner with Yellow caution triangle, click promote this Server to Domain Contoller. Check Add a new forest. Create a domain name mydomain.com. Create password. Next to install option. Then click install and computer will restart. You will have to remote back in.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/cSHrySJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+When remoting back into DC-1 select more options and change the log in to mydomain.com\labuser.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/r4dUNEq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click Start and type in Active Directory Users and Computers. Right click mydomain.com> new> Organizational Unit. Create two organizational units. Name one _Employees and the other _Admins.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
