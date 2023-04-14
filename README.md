@@ -22,7 +22,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Create a Domain Controller(DC-1) and Client(Client-1) in Azure.
 - Install Active Directory on DC-1
-- Step 3
+- Create an Administrative Account
 - Step 4
 
 <h2>Deployment and Configuration Steps</h2>
@@ -107,10 +107,10 @@ Next Practice creating an Administrative Account. Right click _ADMIN select New>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6CCgogf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Join Client-1 to DC-1. In Azure set Client-1's DNS settings to the DC's Private IP Address. In Azure go to Virtual Machines> Client-1> Networking> Network Interface: Client> DNS servers. Click custom and enter DC-1's private ip address.
 </p>
 <br />
 
