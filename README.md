@@ -110,7 +110,7 @@ Next Practice creating an Administrative Account. Right click _ADMIN select New>
 <img src="https://i.imgur.com/6CCgogf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Join Client-1 to DC-1. In Azure set Client-1's DNS settings to the DC's Private IP Address. In Azure go to Virtual Machines> Client-1> Networking> Network Interface: Client> DNS servers. Click custom and enter DC-1's private ip address.
+Join Client-1 to DC-1. In Azure set Client-1's DNS settings to the DC's Private IP Address. In Azure go to Virtual Machines> Client-1> Networking> Network Interface: Client> DNS servers. Click custom and enter DC-1's private ip address. Restart Client-1
 </p>
 <br />
 
