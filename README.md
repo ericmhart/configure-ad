@@ -79,7 +79,7 @@ Make sure there is connectivity between the Server and Client. Enable ICMPv4 on 
 <img src="https://i.imgur.com/JZDXnvb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go to DC-1. Pull up Server Manager from the start menu. Click add roles and features. Click next button to server roles and check "Active Directory Domain Services". Next all the way through then click install. Click on the flag in uper right hand corner with Yellow caution triangle, click promote this Server to Domain Contoller. Check Add a new forest. Create a domain name mydomain.com. Create password. Next to install option. Then click install and computer will restart. You will have to remote back in.
+Go to DC-1. Pull up Server Manager from the start menu. Click add roles and features. Click next button to server roles and check "Active Directory Domain Services". Next all the way through then click install. Click on the flag in upper right hand corner with Yellow caution triangle, click promote this Server to Domain Contoller. Check Add a new forest. Create a domain name mydomain.com. Create password. Next to install option. Then click install and computer will restart. You will have to remote back in.
 </p>
 <br />
 
