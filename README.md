@@ -135,7 +135,7 @@ Join Client-1 to DC-1. In Azure set Client-1's DNS settings to the DC's Private 
 <img src="https://i.imgur.com/C6wgHFp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next create a bunch of additional users. Log into DC-1 as jane_admin. Open powershell_ise as an administrator(right click from start and select run as administrator). Use a powershell name generator script. Select new script. Paste chosen script. Click run.
+
 </p>
 <br />
 
