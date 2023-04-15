@@ -140,10 +140,10 @@ Next create a bunch of additional users. Log into DC-1 as jane_admin. Open power
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/A2MOsTw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next create a bunch of additional users. Log into DC-1 as jane_admin. Open powershell_ise as an administrator(right click from start and select run as administrator). Use a powershell name generator script. Select new script. Paste chosen script. Click run.
 </p>
 <br />
 
