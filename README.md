@@ -143,10 +143,25 @@ Join Client-1 to DC-1. In Azure set Client-1's DNS settings to the DC's Private 
 <img src="https://i.imgur.com/A2MOsTw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next create a bunch of additional users. Log into DC-1 as jane_admin. Open powershell_ise as an administrator(right click from start and select run as administrator). Use a powershell name generator script. Select new script. Paste chosen script. Click run.
+
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/mp2oFv7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next create a bunch of additional users. Log into DC-1 as jane_admin. Open powershell_ise as an administrator(right click from start and select run as administrator). You can create new accounts from Active directory I will use a powershell name generator script. Select new script. Paste chosen script. Click run. While the script is creating users go back to Active Directory right click the _EMPLOYEES file created earlier. Refresh and select(double click) a random created user. Go to the Accounts tab and copy the Display name. Go back to Client-1 (log out if logged in) log in as the selected user
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
