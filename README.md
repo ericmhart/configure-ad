@@ -39,7 +39,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/UY8IDzP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create Windows Server VM and name it DC-1. Create a client VM. Set the DC-1 NIC(Network Interface Card) from dynamic ip to static so the ip address stays the same. Go to Virtual Machines, click on DC-1> Networking> Network Interface> IP Configurations> Click on the Private IP Address Number, where it says dynamic, change it to static and save.
+In Azure create Windows Server VM and name it DC-1. Create a client VM. Set the DC-1 NIC(Network Interface Card) from dynamic ip to static so the ip address stays the same. Go to Virtual Machines, click on DC-1> Networking> Network Interface> IP Configurations> Click on the Private IP Address Number, where it says dynamic, change it to static and save.
 </p>
 <br />
 
